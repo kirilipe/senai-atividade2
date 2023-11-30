@@ -1,0 +1,29 @@
+    1-Mensagens de Commit Descritivas:
+        Sempre forneça mensagens de commit claras e descritivas. Elas devem explicar de maneira concisa e completa as alterações realizadas no código.
+
+    2-Commits Pequenos e Atômicos:
+        Faça commits pequenos e atômicos, ou seja, cada commit deve representar uma única funcionalidade ou correção. Isso facilita a compreensão das mudanças e a reversão, se necessário.
+
+    3-Branches Descritivos:
+        Utilize branches com nomes descritivos. Isso ajuda a entender facilmente o propósito de cada branch e facilita a navegação no histórico do repositório.
+
+    4-Integração Contínua:
+        Integre continuamente o código ao repositório principal para evitar grandes conflitos no final do desenvolvimento. Isso pode ser feito utilizando ferramentas de integração contínua.
+
+    5-Ignore Arquivos Temporários:
+        Utilize arquivos .gitignore para evitar a inclusão de arquivos temporários ou sensíveis no repositório, mantendo-o limpo e seguro.
+
+    6-Sempre Faça Pull antes de Commitar:
+        Antes de realizar um commit, sempre faça um pull para garantir que seu código está atualizado e evitar conflitos com as alterações feitas por outros membros da equipe.
+
+    7-Versionamento Semântico:
+        Considere o uso do versionamento semântico (SemVer) para atribuir significado claro às versões, indicando se são correções de bugs, adições de funcionalidades ou mudanças incompatíveis.
+
+    8-Revisões de Código:
+        Encoraje e participe de revisões de código. Isso não apenas melhora a qualidade do código, mas também ajuda na disseminação do conhecimento dentro da equipe.
+
+   9- Documentação no Código:
+        Mantenha uma documentação clara no código fonte, explicando decisões de design, complexidades e outros detalhes relevantes.
+
+   10-Rastreabilidade de Problemas:
+        Vincule commits a problemas (issues) relacionados. Isso ajuda a rastrear o progresso e a entender o contexto por trás das mudanças.
